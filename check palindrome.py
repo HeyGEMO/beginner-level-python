@@ -5,3 +5,4 @@ if(st==st2):
 else:
   print('not palindrome')
   i dont know sorry
+  hehe
