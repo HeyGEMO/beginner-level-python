@@ -4,3 +4,4 @@ if(st==st2):
   print('palindrome')
 else:
   print('not palindrome')
+  i dont know sorry
